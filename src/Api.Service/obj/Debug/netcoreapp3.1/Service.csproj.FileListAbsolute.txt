@@ -1,0 +1,14 @@
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Jonas\Documents\TriMania\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb

@@ -1,0 +1,9 @@
+C:\Users\Jonas\Documents\TriMania\src\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.deps.json
+C:\Users\Jonas\Documents\TriMania\src\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Jonas\Documents\TriMania\src\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\Jonas\Documents\TriMania\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.AssemblyReference.cache
+C:\Users\Jonas\Documents\TriMania\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\TriMania\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfo.cs
+C:\Users\Jonas\Documents\TriMania\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\TriMania\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Jonas\Documents\TriMania\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.pdb
